@@ -1,4 +1,4 @@
-// 프로그래머스 그림확대
+#  프로그래머스 그림확대
 def solution(picture, k):
     # 그림 파일의 높이와 너비 계산
     height = len(picture)

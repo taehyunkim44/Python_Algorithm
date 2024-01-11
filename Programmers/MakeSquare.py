@@ -1,4 +1,4 @@
-// 프로그래머스 정사각형 만들기
+#  프로그래머스 정사각형 만들기
 
 def solution(arr):
     row = len(arr)
